@@ -24,7 +24,6 @@ This project is a Power BI dashboard built using Blinkit sales dataset to analyz
 * Time-based Trends
 
 ## 📸 Dashboard Preview
-
 ![Dashboard](images/dashboard.png)
 
 ## 📈 Key Insights
